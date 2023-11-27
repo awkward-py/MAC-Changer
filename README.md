@@ -1,4 +1,4 @@
-### MAC Changer in Linux
+# MAC Changer in Linux
 
 Using macchanger in Kali Linux is a way to change or spoof the MAC address of your network interface. MAC address is a unique identifier that is assigned to each network device, such as a wireless card or an ethernet card. Changing the MAC address can help you to avoid network tracking, bypass MAC filtering, or impersonate another device.
 
