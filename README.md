@@ -91,13 +91,21 @@ That's how you can use macchanger in Kali Linux to change or spoof the MAC addre
 
 Source:
 (1) https://github.com/alobbs/macchanger/issues.
+
 (2) How to change MAC address using macchanger on Kali Linux. https://linuxconfig.org/how-to-change-mac-address-using-macchanger-on-kali-linux.
+
 (3) . https://bing.com/search?q=macchanger+in+kali+linux.
+
 (4) macchanger | Kali Linux Tools. https://www.kali.org/tools/macchanger/.
+
 (5) How to Change Your MAC address in Kali Linux and Linux. https://computingforgeeks.com/how-to-change-your-mac-address-in-kali-linux-and-linux/.
+
 (6)  https://www.hackingtutorials.org/general-tutorials/mac-address-spoofing-with-macchanger/.
+
 (7)  https://www.linuxfordevices.com/tutorials/kali-linux/change-mac-address-macchanger.
+
 (8)  https://www.hacknos.com/macchanger-in-kali-linux/.
+
 (9) github.com. https://github.com/JaGoLi/Libreboot-X200-Updated/tree/b4879aaba111792fe94a6ad66bf2ec29de1f1693/libreboot_x200%2Fcoreboot%2FDocumentation%2Fmainboard%2Fgigabyte%2Fga-g41m-es2l.md.
 (10) github.com. https://github.com/s-nt-s/s-nt-s.github.io.new/tree/d5c225ac8ac745cf3e1c2ff15304f7cbfbf82154/content%2Fposts%2F2016-07-28_apuntes_lfcs.md.
 (11) github.com. https://github.com/ducoterra/howblog/tree/7ca4d7ee035124ee77c9e28e726ec73cab15788b/10gig2.md.
